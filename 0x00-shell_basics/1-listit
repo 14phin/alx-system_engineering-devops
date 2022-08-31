@@ -1,3 +1,2 @@
 #!/bin/bash
-cat pwd
 display the content of my current directory
