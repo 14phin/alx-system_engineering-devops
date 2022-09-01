@@ -1,1 +1,1 @@
-a script thatprints all the groups current user is part of
+a script that changes the owner of the file hello to the user betty
