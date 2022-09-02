@@ -1,1 +1,1 @@
-the owner and the group owner of -hello a symbolic link in the working directory changes to vincent and staff respectively
+a script that copies all the html files from the current working directory to the parent working directory, but only copy files that did not exit in the parent of the working directory or were newer than the versions in the parent of the working directory
