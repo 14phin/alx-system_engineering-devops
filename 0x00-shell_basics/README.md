@@ -1,1 +1,1 @@
-a symbolic link to /bin/ls, named __ls__
+consider all HTML files have the extension .html
