@@ -1,1 +1,1 @@
-consider all HTML files have the extension .html
+changes the working directory to the previous one
