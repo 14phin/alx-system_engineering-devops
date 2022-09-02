@@ -1,1 +1,1 @@
-a script that sets the permissions to the file as Owner: no permission at all Group: no permission at allOther users: all the permissions
+a script that changes the owner to vincent and the group owner to staff for all the files and directories in the workinf directory
