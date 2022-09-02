@@ -1,1 +1,1 @@
-command that liat all files and directories, separated by commas ,
+a script that deletes all files in the current working directory that end with the character ~
