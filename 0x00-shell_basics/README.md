@@ -1,1 +1,1 @@
-a script creates a directory named my_first_directory in the /tmp/ directory
+a symbolic link to /bin/ls, named __ls__
