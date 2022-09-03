@@ -1,1 +1,1 @@
-gives all the permission to other users but no permission for the owner and the group owner for the file hello
+a script that changes the owner and group owner of -hello to vincent and staff respectively
