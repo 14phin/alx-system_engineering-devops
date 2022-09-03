@@ -1,1 +1,1 @@
-the owner amd the group owner of -hello a symbolic link in the working directory changed to vincent and staff
+gives all the permission to other users but no permission for the owner and the group owner for the file hello
