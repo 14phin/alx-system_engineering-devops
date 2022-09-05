@@ -1,1 +1,1 @@
-a scritp that writes into the file ls_cwd_content the results of the command ls -la. if the file ls_cwd_content already exists, it should be overwritten, if the file ls_cwd_content does not exist, create it
+a script that duplicates the last line of the file iacta in the working directory
