@@ -1,1 +1,1 @@
-lines containing the pattern root from the files /etc/passwd
+display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
