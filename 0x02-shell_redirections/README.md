@@ -1,1 +1,1 @@
-display all the lines of the file /etc/ssh/sshd_config starting with a letter, including a capital letter as well
+replace all characters A and c from input to Z and e respectively
