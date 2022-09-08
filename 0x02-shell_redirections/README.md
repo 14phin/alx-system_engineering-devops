@@ -1,1 +1,1 @@
-counts the number of directories and sub-directories in the current directory
+number of lines that contain the pattern "bin" in the file /etc/passwd
