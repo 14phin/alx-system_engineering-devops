@@ -1,1 +1,1 @@
-display the number of lines that contain the pattern "bin" in the file /etc/passwd
+creates a file containing the text Best School ending by anew line
