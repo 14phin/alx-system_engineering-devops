@@ -1,1 +1,1 @@
-number of lines that contain the pattern "bin" in the file /etc/passwd
+a command that finds all empty files and directories in the current directory and all sub-directories
