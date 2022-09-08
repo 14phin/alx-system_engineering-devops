@@ -1,1 +1,1 @@
-creates a file containing the text Best School ending by anew line
+counts the number of directories and sub-directories in the current directory
